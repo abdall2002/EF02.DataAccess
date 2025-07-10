@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C448046C-23DE-4CA6-9A9A-4C7B19528C09}|EF02.ConnectionString\\EF02.ConnectionString.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\ef02.connectionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C448046C-23DE-4CA6-9A9A-4C7B19528C09}|EF02.ConnectionString\\EF02.ConnectionString.csproj|solutionrelative:ef02.connectionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertrawsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|solutionrelative:executeinsertrawsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertrawsql\\executeinsertrawsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|solutionrelative:executeinsertrawsql\\executeinsertrawsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertrawsql\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|solutionrelative:executeinsertrawsql\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 118,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\EF02.ConnectionString\\Program.cs",
+              "RelativeDocumentMoniker": "EF02.ConnectionString\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\EF02.ConnectionString\\Program.cs",
+              "RelativeToolTip": "EF02.ConnectionString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:31:02.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExecuteInsertRawSql",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj",
+              "RelativeDocumentMoniker": "ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj",
+              "RelativeToolTip": "ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T11:30:14.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\Wallet.cs",
+              "RelativeDocumentMoniker": "ExecuteInsertRawSql\\Wallet.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\Wallet.cs",
+              "RelativeToolTip": "ExecuteInsertRawSql\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:17:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\Program.cs",
+              "RelativeDocumentMoniker": "ExecuteInsertRawSql\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\Program.cs*",
+              "RelativeToolTip": "ExecuteInsertRawSql\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:17:45.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
