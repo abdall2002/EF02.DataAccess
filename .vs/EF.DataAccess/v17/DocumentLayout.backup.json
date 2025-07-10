@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C448046C-23DE-4CA6-9A9A-4C7B19528C09}|EF02.ConnectionString\\EF02.ConnectionString.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\ef02.connectionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C448046C-23DE-4CA6-9A9A-4C7B19528C09}|EF02.ConnectionString\\EF02.ConnectionString.csproj|solutionrelative:ef02.connectionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6374BA8A-BC01-4C76-B5E0-438E487264CA}|ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertstoredprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6374BA8A-BC01-4C76-B5E0-438E487264CA}|ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj|solutionrelative:executeinsertstoredprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6374BA8A-BC01-4C76-B5E0-438E487264CA}|ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertstoredprocedure\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6374BA8A-BC01-4C76-B5E0-438E487264CA}|ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj|solutionrelative:executeinsertstoredprocedure\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertrawsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|solutionrelative:executeinsertrawsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertrawsql\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|solutionrelative:executeinsertrawsql\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertrawsql\\executeinsertrawsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|solutionrelative:executeinsertrawsql\\executeinsertrawsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertrawsql\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37F2499-52BA-40E5-AD81-09172279E167}|ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj|solutionrelative:executeinsertrawsql\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6374BA8A-BC01-4C76-B5E0-438E487264CA}|ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertstoredprocedure\\executeinsertstoredprocedure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6374BA8A-BC01-4C76-B5E0-438E487264CA}|ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj|solutionrelative:executeinsertstoredprocedure\\executeinsertstoredprocedure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321919CC-ECB4-4959-83FC-B021CB182F8F}|ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertexcutescaler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321919CC-ECB4-4959-83FC-B021CB182F8F}|ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj|solutionrelative:executeinsertexcutescaler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321919CC-ECB4-4959-83FC-B021CB182F8F}|ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertexcutescaler\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321919CC-ECB4-4959-83FC-B021CB182F8F}|ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj|solutionrelative:executeinsertexcutescaler\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321919CC-ECB4-4959-83FC-B021CB182F8F}|ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertexcutescaler\\executeinsertexcutescaler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{321919CC-ECB4-4959-83FC-B021CB182F8F}|ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj|solutionrelative:executeinsertexcutescaler\\executeinsertexcutescaler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321919CC-ECB4-4959-83FC-B021CB182F8F}|ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\executeinsertexcutescaler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{321919CC-ECB4-4959-83FC-B021CB182F8F}|ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj|solutionrelative:executeinsertexcutescaler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C448046C-23DE-4CA6-9A9A-4C7B19528C09}|EF02.ConnectionString\\EF02.ConnectionString.csproj|c:\\users\\training.3\\source\\repos\\ef.dataaccess\\ef02.connectionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C448046C-23DE-4CA6-9A9A-4C7B19528C09}|EF02.ConnectionString\\EF02.ConnectionString.csproj|solutionrelative:ef02.connectionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +54,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertStoredProcedure\\Wallet.cs",
+              "RelativeDocumentMoniker": "ExecuteInsertStoredProcedure\\Wallet.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertStoredProcedure\\Wallet.cs",
+              "RelativeToolTip": "ExecuteInsertStoredProcedure\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:54:58.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExecuteInsertStoredProcedure",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj",
+              "RelativeDocumentMoniker": "ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj",
+              "RelativeToolTip": "ExecuteInsertStoredProcedure\\ExecuteInsertStoredProcedure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T11:53:27.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertStoredProcedure\\Program.cs",
+              "RelativeDocumentMoniker": "ExecuteInsertStoredProcedure\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertStoredProcedure\\Program.cs",
+              "RelativeToolTip": "ExecuteInsertStoredProcedure\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:53:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertExcuteScaler\\Wallet.cs",
+              "RelativeDocumentMoniker": "ExecuteInsertExcuteScaler\\Wallet.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertExcuteScaler\\Wallet.cs",
+              "RelativeToolTip": "ExecuteInsertExcuteScaler\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:34:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertExcuteScaler\\appsettings.json",
+              "RelativeDocumentMoniker": "ExecuteInsertExcuteScaler\\appsettings.json",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertExcuteScaler\\appsettings.json",
+              "RelativeToolTip": "ExecuteInsertExcuteScaler\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T11:32:41.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExecuteInsertExcuteScaler",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj",
+              "RelativeDocumentMoniker": "ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj",
+              "RelativeToolTip": "ExecuteInsertExcuteScaler\\ExecuteInsertExcuteScaler.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T11:32:37.86Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -54,7 +160,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertExcuteScaler\\Program.cs",
+              "RelativeDocumentMoniker": "ExecuteInsertExcuteScaler\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertExcuteScaler\\Program.cs",
+              "RelativeToolTip": "ExecuteInsertExcuteScaler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:32:29.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\EF02.ConnectionString\\Program.cs",
               "RelativeDocumentMoniker": "EF02.ConnectionString\\Program.cs",
@@ -67,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ExecuteInsertRawSql",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj",
               "RelativeDocumentMoniker": "ExecuteInsertRawSql\\ExecuteInsertRawSql.csproj",
@@ -86,20 +205,20 @@
               "RelativeDocumentMoniker": "ExecuteInsertRawSql\\Wallet.cs",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\Wallet.cs",
               "RelativeToolTip": "ExecuteInsertRawSql\\Wallet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T11:17:46.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\Program.cs",
               "RelativeDocumentMoniker": "ExecuteInsertRawSql\\Program.cs",
-              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\Program.cs*",
-              "RelativeToolTip": "ExecuteInsertRawSql\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF.DataAccess\\ExecuteInsertRawSql\\Program.cs",
+              "RelativeToolTip": "ExecuteInsertRawSql\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T11:17:45.567Z",
               "EditorCaption": ""

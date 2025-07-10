@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExecuteInsertStoredProcedure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4f31cf36041a5ee4a9cac1ba3e0999ca764df8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6d2a3b11ca9451086535eb0a5d63515829da5e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExecuteInsertStoredProcedure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExecuteInsertStoredProcedure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
